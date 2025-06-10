@@ -1,0 +1,15 @@
+Seperate Dependancies Needed:
+
+glad
+GLFW
+glm
+gltext
+jsonimport
+KHR
+lib
+stb
+
+dll->glfw3.dll
+dll->libstdc++.a
+dll->libstdc++.dll.a
+dll->libstdc++-6.dll
